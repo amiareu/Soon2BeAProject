@@ -7,8 +7,8 @@
 <p align="center">
 While we are tirelessly working on bringing this project to life please help yourslef to the finest selection of things that inspire us not to give up this page
 
-![This is literally us trying (we have so many excting projects)](https://64.media.tumblr.com/39f00b1eaf1970f4b85c8cb31e4ddfd5/2b08b5822b5c048b-bf/s2048x3072/218086c8aa9da870e0209e96667553d7d1b801e8.jpg)
 <p align="center">
+<img src="https://64.media.tumblr.com/39f00b1eaf1970f4b85c8cb31e4ddfd5/2b08b5822b5c048b-bf/s2048x3072/218086c8aa9da870e0209e96667553d7d1b801e8.jpg">
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/ce/7a/3c/ce7a3ca09e9c4323835cfa625a483daa.gif">
