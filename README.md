@@ -17,7 +17,7 @@ While we are tirelessly working on bringing this project to life please help you
 Uh-oh it seems there is a problem with our code. Please be sure we are aware of the issue and are doing everything in our power to resolve it.
 <p align="center">
 Here is a message for our developers
-
+<p align="center">
 <img width="300" height="200" src="https://i.pinimg.com/564x/29/b4/19/29b41937bdd89b77f2b928f8228d7abb.jpg">
 
 <p align="center">
